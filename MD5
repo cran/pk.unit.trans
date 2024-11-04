@@ -1,0 +1,8 @@
+368dc9942f91267867c91eef40de5caa *DESCRIPTION
+034a23f14a68f6fcc043e73634162793 *LICENSE
+a5659d4bc0b607be42c42f42e55893e5 *NAMESPACE
+35cd773d4072bb0c5aa577bedd54df47 *R/sysdata.rda
+29c7d7766cbf051ec8851c778eeb37a2 *R/unit_trans.R
+5156a57d63ce752965a45c32e0bbf5eb *inst/extdata/Non_standard_unit_transform.csv
+66646502defb19af827515d180036131 *inst/extdata/RefUnitTable.csv
+8576717800501fea12843c7c90004467 *man/unit_trans.Rd
